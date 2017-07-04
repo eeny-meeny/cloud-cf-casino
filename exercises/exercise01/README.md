@@ -1,15 +1,15 @@
 # Exercise 01: Getting an HCP Developer Account and Cloning Sample from Github
 
-##Estimated time
+## Estimated time
 
 10 minutes
 
-##Objective
+## Objective
 
 In this exercise you'll learn how you can create your own free developer account on the SAP HANA Cloud Platform and explore a bit the HCP cloud cockpit what is the administration tool of HCP.
 Apart of this, you will also clone the Git repository that contains the sample project of this tutorial to your local environment.
 
-#Exercise description
+# Exercise description
 
 ## Create HCP account
 
@@ -29,10 +29,10 @@ Once you went through the exercise, you can explore the [cockpit of your free de
    D:
    cd D:\Files\Session\DEV262\
    ```
-	 
+
 3. Now type ```git clone https://github.com/SAP/cloud-cf-casino.git``` and press the return key.
 4. A new directory called ```cloud-cf-casino``` was created in your student directory folder.
 
-##Summary
+## Summary
 
 In this exercise you've learned how to setup your own free developer account on the SAP HANA Cloud Platform. With this preparatory work you are now ready for [exersise02](../exercise02).
